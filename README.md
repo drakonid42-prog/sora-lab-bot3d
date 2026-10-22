@@ -1,1 +1,2 @@
-# sora-lab-bot3d
+aiogram>=3.0,<4.0
+python-dotenv>=1.0,<2.0
